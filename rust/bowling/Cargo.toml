@@ -1,0 +1,6 @@
+[package]
+name = "bowling"
+version = "0.1.0"
+authors = ["Michael Schumacher <schumacher.m@me.com>"]
+
+[dependencies]
